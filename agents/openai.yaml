@@ -1,0 +1,4 @@
+interface:
+  display_name: "讲义双语翻译"
+  short_description: "逐页翻译技术讲义，核对数学公式，并导出保留原图的中英对照网页和 PDF"
+  default_prompt: "使用 $translate-lecture-bilingual 将这份讲义翻译成中文，保留公式和图示，生成逐页对照的 PDF、离线网页和 Markdown。"
